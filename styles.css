@@ -157,6 +157,7 @@ aside.aside-new-articles > ul > li:not(:last-child) {
   grid-template-columns: 1fr 2fr;
   gap: 2rem;
   align-items: center;
+  margin-top: 1rem;
 }
 
 .article-bottom section {
@@ -338,7 +339,7 @@ aside.aside-new-articles > ul > li:not(:last-child) {
   }
 
   .articles-bottom {
-    grid-template-columns: repeat(auto-fill, minmax(490px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   }
 }
 

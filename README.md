@@ -13,10 +13,12 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="758" alt="frontend-mentor-3" src="https://user-images.githubusercontent.com/97953020/211207989-17a72e2a-4ec0-418b-bb5a-c9702e176521.png">
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Shraddha-V22/news-homepage-main
+- Live Site URL: https://news-home-page-main.netlify.app/
 
 ## My process
 
